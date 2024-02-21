@@ -19,25 +19,29 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
   
 ## Prérequis
 
-- Vous devez avoir terminé **Lab 0 : Valider l’environnement lab **
+- Vous devez avoir effectué le **Labo 0 : Valider l’environnement de labo**
 
 ## Procédure détaillée
 
-## Exercice 1 – Créer une liste SharePoint
+## Exercice 1 : Créer une liste SharePoint
 
-### Tâche 1.1 Créer un site SharePoint
+### Tâche 1.1 Créer un site SharePoint
 
-1. Dans le portail [Power Apps Maker](https://make.powerapps.com) sélectionnez le **lanceur d’applications** en haut à gauche de la fenêtre du navigateur, puis sélectionnez **OneDrive**.
+1. Dans le [portail Power Apps Maker](https://make.powerapps.com) sélectionnez le **lanceur d’applications** en haut à gauche de la fenêtre du navigateur, puis sélectionnez **SharePoint**.
+
+1. Si la boîte de dialogue **Bienvenue dans la page de démarrage SharePoint** s’affiche, sélectionnez **X** pour fermer la boîte de dialogue.
 
 1. Dans SharePoint, sélectionnez **+Créer un site**.
 
-1. Sélectionnez **site d’équipe**, sélectionnez modèle **d’équipe Standard**, puis **Utiliser le modèle**.
+1. Sélectionnez **Site d’équipe**, sélectionnez le modèle **Équipe standard**, puis **Utiliser le modèle**.
 
-1. Entrez `Power Automate` pour le **nom de site**, puis sélectionnez **Suivant**.
+1. Entrez `Power Automate` comme **Nom du site** et sélectionnez **Suivant**.
 
 1. Sélectionnez **Créer un site**.
 
 1. Sélectionnez **Terminer**.
+
+1. Si la boîte de dialogue **Démarrer la conception de votre site** s’affiche, fermez la boîte de dialogue.
 
 ### Tâche 1.2 Créer une liste SharePoint
 
@@ -45,7 +49,7 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
 
     ![Capture d’écran de la nouvelle liste SharePoint.](../media/new-sharepoint-list.png)
 
-1. Sélectionnez **Liste vide**
+1. Sélectionnez **Liste vide**.
 
 1. Entrez `Tasks` pour le ** Nom**, puis sélectionnez **Créer**.
 
@@ -63,7 +67,7 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
 1. Dans le volet **Créer une colonne**, entrez ou sélectionnez les valeurs suivantes :
 
    1. Nom : `Owner Name`
-   1. Type de données : **Ligne de texte unique**
+   1. Type de données : **Ligne de texte unique**
 
 1. Sélectionnez **Enregistrer**.
 
@@ -72,7 +76,7 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
 1. Dans le volet **Créer une colonne**, entrez ou sélectionnez les valeurs suivantes :
 
    1. Nom : `Deadline`
-   1. Type de données : **Date et heure**
+   1. Type de données : **Date et heure**
 
 1. Sélectionnez **Enregistrer**.
 
