@@ -49,9 +49,9 @@ Dans ce labo, vous allez créer un flux d’approbation.
 
 1. Sélectionner l’étape **Lorsqu'un élément est créé**.
 
-1. Sélectionner **Lorsqu'un élément est créé** et entrer `New task`.
+1. Sélectionnez l’étape **Lorsqu'un élément est créé**, puis entrez `New task`.
 
-1. Sélectionner le **site SharePoint Power Automate**.
+1. Sélectionnez le **site SharePoint Power Automate** créé dans le labo précédent. Si le site n’est pas répertorié, sélectionnez **Entrer une valeur personnalisée**, puis collez l’URL du site SharePoint Power Automate
 
 1. Sélectionner la liste **Tâches**.
 
@@ -71,7 +71,7 @@ Dans ce labo, vous allez créer un flux d’approbation.
 
 1. Sélectionner **Approuver/Rejeter : Premier à répondre** pour **type d’approbation**
 
-1. Sélectionner **Démarrer et attendre une approbation*** puis entrer `Approval`.
+1. Sélectionnez l’étape **Démarrer et attendre une approbation**, puis entrez `Approval`.
 
 1. Sélectionnez le champ **Notes**, puis l’icône Contenu dynamique.
 
@@ -97,10 +97,6 @@ Dans ce labo, vous allez créer un flux d’approbation.
 
 1. Sélectionner **Condition** sous **Contrôle**.
 
-1. Sélectionnez **Enregistrer**.
-
-1. Sélectionnez le bouton Back (Précédent) **<-** en haut à gauche de la barre de commandes.
-
 1. Sélectionner le champ à gauche **Choisir une valeur**, puis sélectionner l’icône de contenu dynamique.
 
     ![Capture d’écran du contenu dynamique pour une condition.](../media/add-condition.png)
@@ -121,7 +117,7 @@ Dans ce labo, vous allez créer un flux d’approbation.
 
 1. Sélectionner **Mettre à jour l’élément** sous **SharePoint**.
 
-1. Sélectionner **Mettre à jour l’élément** et entrer `Set task to approved`.
+1. Sélectionnez l’étape **Mettre à jour l’élément**, puis entrez `Set task to approved`.
 
 1. Sélectionner le **site SharePoint Power Automate**.
 
@@ -145,7 +141,7 @@ Dans ce labo, vous allez créer un flux d’approbation.
 
 1. Sélectionner **Mettre à jour l’élément** sous **SharePoint**.
 
-1. Sélectionner **Mettre à jour l’élément 1** et entrer `Set task to declined`.
+1. Sélectionnez l’étape **Mettre à jour l’élément 1**, puis entrez `Set task to declined`.
 
 1. Sélectionner le **site SharePoint Power Automate**.
 
@@ -161,7 +157,7 @@ Dans ce labo, vous allez créer un flux d’approbation.
 
 1. Sélectionner **Titre** dans **Nouvelles tâches**.
 
-1. Sélectionner **Refuser** pour **la valeur d’état d’approbation**.
+1. Sélectionner **Refusé** comme **Valeur d’état d’approbation**.
 
 1. Sélectionnez **Enregistrer**.
 
@@ -193,7 +189,7 @@ Dans ce labo, vous allez créer un flux d’approbation.
 
 1. Sélectionner la date et l’heure dans l’historique d’exécution du flux.
 
-    > ** Remarque : La fonctionnalité Approbations sera installée en arrière-plan. Cette opération va prendre environ 10 minutes.
+    > **Remarque :** La fonctionnalité Approbations sera installée en arrière-plan. Cette opération va prendre environ 10 minutes.
 
 1. Sélectionner l’onglet **Approbations** depuis le menu de gauche.
 
