@@ -119,6 +119,8 @@ Dans ce labo, vous allez créer des tables et des colonnes Dataverse.
    1. Format: **Texte**
    1. Obligatoire : **Facultatif**
 
+1. Sélectionnez **Enregistrer**.
+
 ### Tâche 1.4 : Ajouter une colonne de choix
 
 1. Dans le volet **Colonnes et données des opportunités**, sélectionnez **+** puis, dans le volet **Nouvelle colonne**, entrez ou sélectionnez les valeurs suivantes :

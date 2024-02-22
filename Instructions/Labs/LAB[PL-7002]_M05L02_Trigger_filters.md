@@ -18,7 +18,7 @@ Dans ce labo, vous allez filtrer sur un déclencheur de mise à jour.
 
 ## Prérequis
 
-- Vous devez avoir terminé **Labo 2 : Modèle de données**
+- Doit avoir complété le **Labo 2 : Modèle de données**
 
 ## Procédure détaillée
 
@@ -38,13 +38,15 @@ Dans ce labo, vous allez filtrer sur un déclencheur de mise à jour.
 
 1. Sélectionnez la colonne **État**.
 
+    ![Capture d’écran des colonnes d’état.](../media/opportunity-status-column.png)
+
 1. Développez **Options avancées**.
 
     ![Capture d’écran du nom du schéma de colonne.](../media/column-schema-name.png)
 
 1. Copiez le **nom logique** à utiliser dans le flux.
 
-   > ** Remarque : Le préfixe de votre colonne d’état sera différent.
+   > **Remarque :** Le préfixe de votre colonne d’état peut être différent.
 
 ## Exercice 2 : Créer un flux automatisé
 
@@ -60,7 +62,7 @@ Dans ce labo, vous allez filtrer sur un déclencheur de mise à jour.
 
 1. Entrez `Opportunity Closed` pour **Nom du flux**.
 
-1. Entrez `Dataverse` dans Rechercher.
+1. Entrez `Dataverse` dans la recherche de tous les déclencheurs.
 
 1. Sélectionnez **Lorsqu’une ligne est ajoutée, modifiée ou supprimée**.
 
@@ -70,7 +72,7 @@ Dans ce labo, vous allez filtrer sur un déclencheur de mise à jour.
 
 1. Sélectionnez l’étape **Lorsqu’une ligne est ajoutée, modifiée ou supprimée**.
 
-1. Sélectionnez **Lorsqu’une ligne est ajoutée, modifiée ou supprimée**, puis entrez `Opportunity changed`.
+1. Sélectionnez le nom d’étape **Quand une ligne est ajoutée, modifiée ou supprimée** et entrez `Opportunity changed`.
 
 1. Pour **Type de modification**, sélectionnez **Modifié**.
 
@@ -88,7 +90,7 @@ Dans ce labo, vous allez filtrer sur un déclencheur de mise à jour.
 
 1. Sous **Office 365 Outlook**, sélectionnez **Envoyer un e-mail (V2)**.
 
-1. Sélectionnez **Envoyer un e-mail (V2)** et entrez `Notify by email`.
+1. Sélectionnez le nom d’étape **Envoyer un e-mail (V2)** et entrez `Notify by email`.
 
 1. Sélectionnez le champ **À**, puis **Entrer une valeur personnalisée**.
 
@@ -100,19 +102,19 @@ Dans ce labo, vous allez filtrer sur un déclencheur de mise à jour.
 
 1. Dans **Opportunité modifiée**, sélectionnez **Objet de l’opportunité**.
 
-1. Sélectionnez le champ **Corps**, puis l’icône de contenu dynamique.
+1. Sélectionnez le champ **Corps** et sélectionner l’icône Contenu dynamique, puis **Voir plus**.
 
 1. Dans **Opportunité modifiée**, sélectionnez **État**.
 
 ### Tâche 2.4 : Filtre de colonne
 
-1. Sélectionnez l’étape **Opportunité modifiée**.
+1. Sélectionnez l’étape de déclencheur **Opportunity changed**.
 
 1. Sélectionnez **Afficher tout**.
 
 1. Sélectionnez le champ **Sélectionner des colonnes** et entrez `cr977_status`
 
-   > ** Remarque : Le préfixe de votre colonne d’état sera différent.
+   > **Remarque :** Le préfixe de votre colonne d’état sera différent.
 
 ### Tâche 2.5 : Filtre de ligne
 
@@ -124,7 +126,7 @@ Dans ce labo, vous allez filtrer sur un déclencheur de mise à jour.
 
     ![Capture d’écran du filtre de déclencheur.](../media/trigger-filter.png)
 
-    > ** Remarque : Le préfixe de votre colonne d’état sera différent.
+    > **Remarque :** Le préfixe de votre colonne d’état sera différent.
 
 1. Sélectionnez **Enregistrer**.
 

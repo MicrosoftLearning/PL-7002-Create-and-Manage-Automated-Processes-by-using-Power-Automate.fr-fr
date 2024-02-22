@@ -21,7 +21,7 @@ Dans ce labo, vous allez créer un flux de bouton.
   
 ## Prérequis
 
-- Vous devez avoir effectué **Labo 2 : Modèle de données**
+- Doit avoir complété le **Labo 2 : Modèle de données**
 
 ## Procédure détaillée
 
@@ -47,7 +47,7 @@ Dans ce labo, vous allez créer un flux de bouton.
 
 1. Sélectionnez l’étape **Déclencher manuellement un flux**.
 
-1. Sélectionnez **Déclencher manuellement un flux** et entrez `Button clicked`.
+1. Sélectionnez le nom d’étape **Déclencher manuellement un flux** et entrez `Button clicked`.
 
 1. Sélectionnez **Ajouter une entrée**.
 
@@ -85,11 +85,11 @@ Dans ce labo, vous allez créer un flux de bouton.
 
 1. Utilisez les informations d’identification de votre locataire.
 
-1. Sélectionnez **Ajouter une nouvelle ligne**, puis entrez `New opportunity`.
+1. Sélectionnez le nom d’étape **Ajouter une nouvelle ligne** et entrez `New opportunity`.
 
 1. Sélectionnez **Opportunities** (Opportunités) pour **Nom de la table**.
 
-1. Sélectionnez le champ **Customer** (Client), puis l’icône Contenu dynamique.
+1. Sélectionner le champ **Client** et sélectionner l’icône Contenu dynamique, puis **Voir plus**.
 
 1. Sélectionnez **Customer Name** (Nom du client).
 
@@ -99,15 +99,11 @@ Dans ce labo, vous allez créer un flux de bouton.
 
 1. Sélectionnez **Afficher tout**.
 
-1. Sélectionnez le champ **Address** (Adresse), puis l’icône Contenu dynamique.
-
-1. Sélectionnez **Full address** (Adresse complète).
-
 1. Sélectionnez le champ **Amount** (Montant), puis l’icône Contenu dynamique.
 
 1. Sélectionnez **Potential Sale** (Vente potentielle).
 
-1. Sélectionnez le champ **Notes**, puis l’icône Contenu dynamique.
+1. Sélectionnez le champ **Notes** et sélectionner l’icône Contenu dynamique, puis **Voir plus**.
 
 1. Sélectionnez **Comments** (Commentaires).
 
