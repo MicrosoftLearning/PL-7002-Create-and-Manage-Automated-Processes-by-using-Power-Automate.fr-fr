@@ -22,7 +22,7 @@ Dans ce labo, vous allez créer des flux de cloud.
   
 ## Prérequis
 
-- Vous devez avoir terminé **Labo 0 : Valider l’environnement de labo**
+- Vous devez avoir effectué le **Labo 0 : Valider l’environnement de labo**
 
 ## Procédure détaillée
 
@@ -31,6 +31,8 @@ Dans ce labo, vous allez créer des flux de cloud.
 ### Tâche 1.1 : Sélectionner un modèle
 
 1. Accédez au portail Power Automate <https://make.powerautomate.com>.
+
+1. Si la boîte de dialogue contextuelle **Bienvenue dans Power Automate** s’affiche, sélectionnez **Démarrage**.
 
 1. Sélectionnez l’environnement **Dev One**.
 
@@ -53,6 +55,8 @@ Dans ce labo, vous allez créer des flux de cloud.
 1. Sélectionnez **Créer** pour **Notifications**.
 
 1. Sélectionnez **Créer un flux**.
+
+1. Si la boîte de dialogue contextuelle **Votre flux est prêt à l’emploi** s’affiche, sélectionnez **Ne plus afficher**, puis **OK**.
 
     ![Capture d’écran des détails de flux.](../media/flow-details.png)
 
@@ -144,6 +148,8 @@ Dans ce labo, vous allez créer des flux de cloud.
 
 1. tester le flux ;
 
+1. Sélectionnez **Tester**, **Manuellement**, puis **Tester**.
+
 1. Sélectionnez le bouton Précédent **<-** en haut à gauche de la barre de commandes.
 
 ## Exercice 3 : Créer un flux de cloud à partir de rien
@@ -160,7 +166,7 @@ Dans ce labo, vous allez créer des flux de cloud.
 
 1. Entrez `Important email` pour **Nom du flux**.
 
-1. Entrez `email` dans Rechercher.
+1. Entrez `email` dans la recherche de tous les déclencheurs.
 
 1. Sélectionnez **À l’arrivée d’un nouvel e-mail (V3)**.
 

@@ -47,7 +47,7 @@ Dans ce labo, vous allez créer un flux planifié.
 
 1. Sélectionnez l’étape **Périodicité**.
 
-1. Sélectionnez **Déclencher manuellement un flux** et entrez `Daily`.
+1. Sélectionnez le nom d’étape **Périodicité** et entrez `Daily`.
 
 ### Tâche 1.3 : Interroger de nouvelles tâches
 
@@ -57,9 +57,9 @@ Dans ce labo, vous allez créer un flux planifié.
 
 1. Sélectionnez **Obtenir les éléments** sous **SharePoint**.
 
-1. Sélectionnez **Obtenir les éléments** et entrez `New tasks`.
+1. Sélectionnez le nom d’étape **Obtenir les éléments** et entrez `New tasks`.
 
-1. Sélectionnez le **site SharePoint Power Automate**.
+1. Sélectionner le **site SharePoint Power Automate**.
 
 1. Sélectionnez la liste **Tâches**.
 
@@ -81,7 +81,7 @@ Dans ce labo, vous allez créer un flux planifié.
 
 1. Sélectionnez le champ **De**, puis l’icône de contenu dynamique.
 
-1. Dans **Nouvelles tâches**, sélectionnez **Corps/valeur**.
+1. Dans **Nouvelles tâches**, sélectionnez **corps/valeur**.
 
 1. Sélectionnez le champ **Entrer la clé** et entrez `Task`.
 
@@ -97,11 +97,15 @@ Dans ce labo, vous allez créer un flux planifié.
 
 1. Sélectionnez le champ **Entrer la clé** et entrez `Due`.
 
-1. Sélectionnez le champ **Entrer la valeur**, puis l’icône de contenu dynamique.
+1. Sélectionnez le champ **Entrer une valeur** et l’icône Contenu dynamique, puis **Voir plus**.
 
 1. Dans **Nouvelles tâches**, sélectionnez **Échéance**.
 
     ![Capture d’écran de Sélectionner l’action.](../media/select-action.png)
+
+1. Si le concepteur de flux a automatiquement ajouté une ou plusieurs boucles For Each, faites glisser l’étape Sélectionner en dehors des boucles et supprimez la ou les boucles.
+
+    ![Capture d’écran des étapes de flux sans boucles.](../media/flow-without-loops.png)
 
 ### Tâche 1.5 : Créer un tableau
 
@@ -111,7 +115,7 @@ Dans ce labo, vous allez créer un flux planifié.
 
 1. Sous **Opérations de données**, sélectionnez **Créer un tableau HTML**.
 
-1. Sélectionnez **Créer un tableau HTML** et entrez `Format as HTML table`.
+1. Sélectionnez le nom d’étape **Créer un tableau HTML** et entrez `Format as HTML table`.
 
 1. Sélectionnez le champ **De**, puis l’icône de contenu dynamique.
 
@@ -127,7 +131,7 @@ Dans ce labo, vous allez créer un flux planifié.
 
 1. Sous **Office 365 Outlook**, sélectionnez **Envoyer un e-mail (V2)**.
 
-1. Sélectionnez **Envoyer un e-mail (V2)** et entrez `Notify by email`.
+1. Sélectionnez le nom d’étape **Envoyer un e-mail (V2)** et entrez `Notify by email`.
 
 1. Sélectionnez le champ **À**, puis **Entrer une valeur personnalisée**.
 
