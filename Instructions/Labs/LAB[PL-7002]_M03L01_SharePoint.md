@@ -27,9 +27,11 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
 
 ### Tâche 1.1 Créer un site SharePoint
 
-1. Dans le [portail Power Apps Maker](https://make.powerapps.com) sélectionnez le **lanceur d’applications** en haut à gauche de la fenêtre du navigateur, puis sélectionnez **SharePoint**.
+1. Dans le portail de création Power Apps, `https://make.powerapps.com`
 
-1. Si la boîte de dialogue **Bienvenue dans la page de démarrage SharePoint** s’affiche, sélectionnez **X** pour fermer la boîte de dialogue.
+1. Sélectionnez le **lanceur d’applications** en haut à gauche de la fenêtre du navigateur, puis **SharePoint**.
+
+1. Si la boîte de dialogue contextuelle **Bienvenue sur la page de démarrage de SharePoint** s’affiche, cliquez sur **X** pour fermer la boîte de dialogue.
 
 1. Dans SharePoint, sélectionnez **+Créer un site**.
 
@@ -41,7 +43,7 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
 
 1. Sélectionnez **Terminer**.
 
-1. Si la boîte de dialogue **Démarrer la conception de votre site** s’affiche, fermez la boîte de dialogue.
+1. Si la boîte de dialogue contextuelle **Démarrer la conception de votre site** s’affiche, fermez la boîte de dialogue.
 
 ### Tâche 1.2 Créer une liste SharePoint
 
@@ -98,6 +100,7 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
 
 1. Copiez la première partie de l’URL du site SharePoint, par exemple `https://m365x99999999.sharepoint.com/sites/PowerAutomate/`
 
+
 ## Exercice 2 – Ajouter une liste SharePoint de données
 
 ### Tâche 2.1 - Ajouter des données
@@ -131,3 +134,4 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
    1. État d’approbation = **Nouveau**
 
     ![Capture d’écran des données SharePoint Tasks.](../media/tasks-data.png)
+
