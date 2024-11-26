@@ -82,19 +82,11 @@ Dans ce labo, vous allez créer des flux de cloud.
 
     ![Capture d’écran des détails de l’exécution du flux.](../media/flow-run-collapsed.png)
 
-1. Sélectionnez l’étape **Condition** pour développer les étapes du flux.
-
-    ![Capture d’écran des étapes d’exécution du flux.](../media/flow-run-steps.png)
-
 1. Sélectionnez l’étape **Obtenir les prévisions du jour** avec la coche verte.
 
     ![Capture d’écran de la sortie de l’étape d’exécution du flux.](../media/flow-run-step.png)
 
 1. Sélectionnez **Modifier**.
-
-1. Sélectionnez l’étape **Condition** pour développer les étapes du flux.
-
-1. Cliquez sur **Développer la condition**.
 
 1. Sélectionnez l’une des étapes **Envoyer une notification Push**.
 
@@ -124,7 +116,7 @@ Dans ce labo, vous allez créer des flux de cloud.
 
 1. Sélectionnez l’onglet **Accueil** dans le menu de gauche.
 
-1. Dans **Automatisons quelque chose. Que souhaitez-vous réaliser ?**, saisissez `Every day send me an email with the daily summary from MSN Weather`.
+1. Sous **Créer votre automatisation avec Copilot**, entrez `Every day send me an email with the daily summary from MSN Weather`
 
     ![Capture d’écran de l’invite Copilot.](../media/copilot-prompt.png)
 
@@ -151,7 +143,9 @@ Dans ce labo, vous allez créer des flux de cloud.
 
 1. Cliquez sur **Enregistrer**.
 
-1. Pour tester votre flux, sélectionnez **Tester**, puis **Manuellement**, et cliquez sur **Exécuter le flux**. Cliquez sur **Terminé**.
+1. Pour tester votre flux, sélectionnez **Tester**, puis **Manuellement**, et cliquez sur **Tester**. 
+
+1. Sélectionnez **Exécuter le flux**, puis **Terminé**.
 
 1. Sélectionnez le bouton Précédent **<-** en haut à gauche de la barre de commandes.
 
@@ -198,6 +192,8 @@ Dans ce labo, vous allez créer des flux de cloud.
 
 1. Sélectionnez l’icône **+** sous l’étape du déclencheur, puis sélectionnez **Ajouter une action**.
 
+1. Si vous y êtes invité, sélectionnez **Autoriser** pour **Afficher le texte et les images copiés dans le Presse-papiers**.
+
 1. Entrez `notification` dans Rechercher.
 
     ![Capture d’écran de la recherche d’action.](../media/search-action.png)
@@ -238,6 +234,8 @@ Dans ce labo, vous allez créer des flux de cloud.
 1. Sélectionnez **... Plus** dans le menu de gauche.
 
     ![Capture d’écran d’autres options pour le portail Power Automate.](../media/power-automate-menu.png)
+
+1. Sélectionnez **Découvrir tout** et recherchez **Activité de flux de cloud** dans la section Surveiller.
 
 1. Sélectionnez l’icône d’épingle pour **Activité de flux de cloud**.
 

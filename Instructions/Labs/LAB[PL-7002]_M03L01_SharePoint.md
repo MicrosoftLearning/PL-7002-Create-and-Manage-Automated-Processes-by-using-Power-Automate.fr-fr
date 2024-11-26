@@ -109,7 +109,7 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
 
     ![Capture d’écran de la liste tâches SharePoint.](../media/tasks-sharepoint-list.png)
 
-1. Sélectionnez **+ Nouveau**, puis entrez les données suivantes, puis sélectionnez **Enregistrer** :
+1. Sélectionnez **+ Ajouter un élément**, entrez les données suivantes, puis sélectionnez **Enregistrer** :
 
    1. Titre = `Contact Jon`
    1. Description = `Call or email`
@@ -117,7 +117,7 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
    1. Date limite = **Hier**
    1. État d’approbation = **Refusé**
 
-1. Sélectionnez **+ Nouveau**, puis entrez les données suivantes, puis sélectionnez **Enregistrer** :
+1. Sélectionnez **+ Ajouter un élément**, entrez les données suivantes, puis sélectionnez **Enregistrer** :
 
    1. Titre = `Create Quote`
    1. Description = `No discount`
@@ -125,7 +125,7 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
    1. Date limite = **Aujourd’hui**
    1. État d’approbation = **Approuvé**
 
-1. Sélectionnez **+ Nouveau**, puis entrez les données suivantes, puis sélectionnez **Enregistrer** :
+1. Sélectionnez **+ Ajouter un élément**, entrez les données suivantes, puis sélectionnez **Enregistrer** :
 
    1. Titre = `Visit Jim`
    1. Description = `First visit`
