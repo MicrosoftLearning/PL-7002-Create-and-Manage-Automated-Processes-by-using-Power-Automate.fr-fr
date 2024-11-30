@@ -10,13 +10,13 @@
 
 ## Comment dois-je utiliser ces fichiers par rapport aux fichiers publiés de la formation dispensée par un formateur Microsoft Learn ?
 
-- Le guide de préparation du formateur et les jeux de diapositives PowerPoint restent votre principale source d’enseignement du contenu du cours.
+- Le guide de préparation du formateur et le jeu de diapositives PowerPoint restent votre principale source d'enseignement du contenu du cours.
 
-- Ces fichiers sur GitHub sont conçus pour être utilisés avec les modules du cours et de Learn. Ils ne sont présents dans GitHub qu’en tant que référentiel central afin que les MCT et les auteurs des cours puissent avoir une source partagée pour les derniers fichiers du labo, de démonstration et d’exercice.
+- Ces fichiers sur GitHub sont conçus pour être utilisés avec les modules du cours et de Learn. Ils ne sont présents dans GitHub qu'en tant que référentiel central afin que les Microsoft Certified Trainers et les auteurs des cours puissent avoir une source partagée pour les derniers fichiers d'exercice et de démonstration de l'atelier.
 
-- Pour chaque prestation, il est recommandé aux formateurs de vérifier dans GitHub les modifications qui ont pu être apportées afin de prendre en charge les derniers services Power Platform et d’obtenir les derniers fichiers à utiliser lors de la formation.
+- Pour chaque session, il est recommandé aux formateurs de vérifier dans GitHub les modifications qui ont pu être apportées afin de prendre en charge les derniers services Power Platform et d'obtenir les derniers fichiers à utiliser lors de la formation.
 
-## Qu’en est-il des modifications apportées au contenu des cours ?
+## Qu'en est-il des modifications apportées au contenu du cours ?
 
 - Le contenu des cours est sur Microsoft Learn et peut être mis à jour en dehors de la planification de publication du cours.
 

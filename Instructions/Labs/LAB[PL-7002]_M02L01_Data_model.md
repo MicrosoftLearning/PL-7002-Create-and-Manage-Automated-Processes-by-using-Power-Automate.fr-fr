@@ -35,30 +35,22 @@ Dans ce labo, vous allez créer des tables et des colonnes Dataverse.
 
 1. Dans le volet de navigation de gauche, sélectionnez **Tables**.
 
-1. Sélectionnez **+ Nouvelle table**, puis sélectionnez **Ajouter des colonnes et des données**.
+1. Sélectionnez **+ Nouvelle table**, puis **Table (propriétés avancées)**.
 
     ![Capture d’écran de la création d’une table dans Dataverse.](../media/create-new-table-dataverse.png)
 
-1. Sélectionnez **Modification des propriétés d’une table**.
-
-    ![Capture d’écran du nom de la nouvelle table.](../media/table-name.png)
-
 1. Entrez `Opportunity` comme **Nom d’affichage**.
-
-1. Sélectionnez **Enregistrer**.
 
 
 ### Tâche 1.2 : Colonne principale
 
-1. Sélectionnez le caret déroulant en regard de **Nouvelle colonne**, puis sélectionnez **Modifier la colonne**.
+1. Sélectionnez l’onglet **Colonne principale** en regard de l’onglet **Propriétés**.
 
     ![Capture d’écran de la colonne principale.](../media/primary-column.png)
 
 1. Entrez `Opportunity Subject` comme **Nom d’affichage**.
 
-1. Sélectionnez **Mettre à jour**.
-
-1. Sélectionnez **Créer**.
+1. Cliquez sur **Enregistrer**.
 
 
 ### Tâche 1.3 : Ajouter des colonnes
@@ -85,7 +77,9 @@ Dans ce labo, vous allez créer des tables et des colonnes Dataverse.
    1. Type de données : **Ligne de texte unique**
    1. Obligatoire : **Contrainte obligatoire**
 
-1. Sélectionnez **Enregistrer**.
+1. Cliquez sur **Enregistrer**.
+
+1. Dans le volet **Colonnes et données des opportunités**, sélectionnez **+** pour ajouter une nouvelle colonne.
 
 1. Dans le volet **Nouvelle colonne**, entrez ou sélectionnez les valeurs suivantes :
 

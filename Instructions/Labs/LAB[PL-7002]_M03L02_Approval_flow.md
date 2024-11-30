@@ -39,7 +39,7 @@ Dans ce labo, vous allez créer un flux d’approbation.
 
 1. Entrez `Task approval` pour **Nom du flux**.
 
-1. Entrer `SharePoint` dans Rechercher.
+1. Entrez `SharePoint` dans la recherche de tous les déclencheurs.
 
 1. Sélectionner le déclencheur **Lorsqu'un élément est créé**.
 
@@ -119,7 +119,7 @@ Dans ce labo, vous allez créer un flux d’approbation.
 
 1. Entrer `update item` dans rechercher.
 
-1. Sélectionner **Mettre à jour l’élément** sous **SharePoint**.
+1. Sélectionnez **Mettre à jour l’élément** sous **SharePoint**.
 
 1. Sélectionnez le nom d’étape **Mettre à jour l’élément**, puis saisissez `Set task to approved`.
 
@@ -143,7 +143,7 @@ Dans ce labo, vous allez créer un flux d’approbation.
 
 1. Entrer `update item` dans rechercher.
 
-1. Sélectionner **Mettre à jour l’élément** sous **SharePoint**.
+1. Sélectionnez **Mettre à jour l’élément** sous **SharePoint**.
 
 1. Sélectionnez l’étape **Mettre à jour l’élément 1**, puis entrez `Set task to declined`.
 
@@ -174,7 +174,7 @@ Dans ce labo, vous allez créer un flux d’approbation.
 
 1. Naviguer vers le site SharePoint et sélectionner la liste **Tâches**.
 
-1. Sélectionner **+ Nouveau**, puis entrer les données suivantes et sélectionner **Enregistrer** :
+1. Sélectionnez **+ Ajouter un élément**, entrez les données suivantes, puis sélectionnez **Enregistrer** :
 
    1. Titre = `Approval test`
    1. Description = `Test`

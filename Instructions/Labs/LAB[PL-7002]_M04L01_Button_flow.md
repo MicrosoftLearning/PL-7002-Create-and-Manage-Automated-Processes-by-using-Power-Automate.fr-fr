@@ -70,7 +70,7 @@ Dans ce labo, vous allez créer un flux de bouton.
 
 1. Sélectionnez **Nombre**.
 
-1. Entrez `Potential Sale` dans **Entrée**.
+1. Entrez `Potential Sale` dans **Nombre**.
 
     ![Capture d’écran de l’entrée utilisateur.](../media/user-input.png)
 
@@ -95,11 +95,11 @@ Dans ce labo, vous allez créer un flux de bouton.
 
 1. Sélectionnez **Customer Name** (Nom du client).
 
-1. Sélectionnez le champ **Objet de l’opportunité**, puis saisissez `New opportunity`.
-
 1. Sélectionnez le champ **Nom du propriétaire**, puis saisissez `MOD Administrator`.
 
 1. Sélectionnez **Afficher tout**.
+
+1. Sélectionnez le champ **Objet de l’opportunité**, puis saisissez `New opportunity`.
 
 1. Saisissez `/` dans le champ **Quantité** et sélectionnez **Insérer du contenu dynamique**.
 
@@ -109,7 +109,7 @@ Dans ce labo, vous allez créer un flux de bouton.
 
 1. Sélectionnez **Comments** (Commentaires).
 
-1. Saisissez `/` dans le champ **Date de clôture estimée)**, puis sélectionnez **Insérer une expression**.
+1. Saisissez `/` dans le champ **Date de clôture estimée**, puis sélectionnez **Insérer une expression**.
 
 1. Entrez l’expression `addDays(utcNow(),30)`, puis sélectionnez **Ajouter**.
 

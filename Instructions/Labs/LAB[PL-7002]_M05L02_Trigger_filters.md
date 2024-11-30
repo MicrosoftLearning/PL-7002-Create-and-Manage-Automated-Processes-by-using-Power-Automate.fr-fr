@@ -107,7 +107,7 @@ Dans ce labo, vous allez filtrer sur un déclencheur de mise à jour.
 
 1. Dans **Opportunité modifiée**, sélectionnez **Objet de l’opportunité**.
 
-1. Sélectionnez le champ **Corps** et sélectionner l’icône Contenu dynamique, puis **Voir plus**.
+1. Sélectionnez le champ **Corps** et l’icône Contenu dynamique, puis **Voir plus**.
 
 1. Dans **Opportunité modifiée**, sélectionnez **État**.
 
