@@ -124,7 +124,7 @@ Dans ce labo, vous allez créer des flux de cloud.
 
     ![Capture d’écran du flux suggéré.](../media/copilot-suggestion.png)
 
-1. Cliquez sur **Suivant**.
+1. Sélectionnez **Conserver et continuer**.
 
 1. Sélectionnez **Créer un flux**.
 

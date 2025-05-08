@@ -51,7 +51,7 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
 
     ![Capture d’écran de la nouvelle liste SharePoint.](../media/new-sharepoint-list.png)
 
-1. Sélectionnez **Liste vide**.
+1. Sélectionnez **Liste** sous **Créer à partir d’un champ vide**.
 
 1. Entrez `Tasks` pour le ** Nom**, puis sélectionnez **Créer**.
 
@@ -60,34 +60,34 @@ Dans ce labo, vous allez créer un site et une liste SharePoint.
 1. Dans le volet **Créer une colonne**, entrez ou sélectionnez les valeurs suivantes :
 
    1. Nom : `Description`
-   1. Type de données : **Plusieurs lignes de texte**
+   1. Type : **plusieurs lignes de texte**
 
-1. Sélectionnez **Enregistrer**.
+1. Cliquez sur **Enregistrer**.
 
 1. Sélectionnez **+Ajouter une colonne**, sélectionnez **Texte**, puis sélectionnez **Suivant**.
 
 1. Dans le volet **Créer une colonne**, entrez ou sélectionnez les valeurs suivantes :
 
    1. Nom : `Owner Name`
-   1. Type de données : **Ligne de texte unique**
+   1. Type : **ligne de texte unique**
 
-1. Sélectionnez **Enregistrer**.
+1. Cliquez sur **Enregistrer**.
 
 1. Sélectionnez **+ Ajouter une colonne**, sélectionnez **date et heure**, puis **Suivant**.
 
 1. Dans le volet **Créer une colonne**, entrez ou sélectionnez les valeurs suivantes :
 
    1. Nom : `Deadline`
-   1. Type de données : **Date et heure**
+   1. Type : **date et heure**
 
-1. Sélectionnez **Enregistrer**.
+1. Cliquez sur **Enregistrer**.
 
 1. Sélectionnez **+ Ajouter une colonne**, sélectionnez **Choix**, puis **Suivant**.
 
 1. Dans le volet **Créer une colonne**, entrez ou sélectionnez les valeurs suivantes :
 
    1. Nom : `Approval Status`
-   1. Type de données : **Choix**
+   1. Type : **choix**
    1. Choix 1 = `New`
    1. Choix 2 = `Approved`
    1. Choix 3 = `Declined`
