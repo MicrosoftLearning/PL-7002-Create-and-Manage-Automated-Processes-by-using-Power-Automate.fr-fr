@@ -111,7 +111,7 @@ Dans ce labo, vous allez créer un flux de bouton.
 
 1. Saisissez `/` dans le champ **Date de clôture estimée**, puis sélectionnez **Insérer une expression**.
 
-1. Entrez l’expression `addDays(utcNow(),30)`, puis sélectionnez **Ajouter**.
+1. Entrez l’expression `utcNow()`, puis sélectionnez **Ajouter**.
 
     ![Capture d’écran de l’action Nouvelle opportunité.](../media/new-opportunity-action.png)
 
