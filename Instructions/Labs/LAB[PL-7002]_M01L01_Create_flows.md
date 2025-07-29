@@ -9,7 +9,6 @@ lab:
 Dans ce labo, vous allez créer des flux de cloud.
 
 ## Contenu du didacticiel
-
 - Comment créer des flux de cloud Power Automate à partir d’un modèle et avec Copilot
 - Comment créer un flux de cloud Power Automate à partir de rien et ajouter des actions
 

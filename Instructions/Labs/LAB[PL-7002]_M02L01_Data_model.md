@@ -178,7 +178,7 @@ Dans ce labo, vous allez créer des tables et des colonnes Dataverse.
 
 1. Dans le volet **Colonnes et données des opportunités**, sélectionnez le caret déroulant en regard de **Modifier** et sélectionnez **Modifier dans un nouvel onglet**.
 
-1. Entrez ou sélectionnez les valeurs suivantes :
+1. Sélectionnez **+ Nouvelle ligne** et entrez ou sélectionnez les valeurs suivantes :
 
    1. Objet de l’opportunité : `100 Widgets`
    1. Nom du propriétaire : `MOD Administrator`
@@ -212,7 +212,7 @@ Dans ce labo, vous allez créer des tables et des colonnes Dataverse.
    1. Client : `Fourth Coffee`
    1. Date de clôture estimée : **Choisir une date future dans le mois suivant**
    1. Montant : `15,000`
-   1. Status: **Ouvrir**
+   1. État : **Ouvrir**
 
     ![Capture d’écran du volet Modifier les données.](../media/edit-data.png)
 
