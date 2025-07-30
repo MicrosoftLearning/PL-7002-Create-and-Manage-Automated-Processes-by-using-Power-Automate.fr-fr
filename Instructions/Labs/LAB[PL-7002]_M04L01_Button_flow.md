@@ -83,6 +83,8 @@ Dans ce labo, vous allez créer un flux de bouton.
 
 1. Sélectionnez **Ajouter une nouvelle ligne** sous **Microsoft Dataverse**.
 
+1. Entrez `Dataverse` comme **Nom de la connexion**.
+
 1. Sélectionnez **Se connecter**.
 
 1. Utilisez les informations d’identification de votre locataire.
